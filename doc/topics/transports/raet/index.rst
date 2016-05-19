@@ -72,7 +72,7 @@ not been completed yet and these are slated for completion in the 2015.5.0
 release.
 
 Also, Salt-Raet allows for more control over the client but these hooks have
-not been implemented yet, thereforre the client still uses the same system
+not been implemented yet, therefore the client still uses the same system
 as the ZeroMQ client. This means that the extra reliability that RAET exposes
 has not yet been implemented in the CLI client.
 
